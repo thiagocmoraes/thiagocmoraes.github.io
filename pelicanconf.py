@@ -19,7 +19,7 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
-THEME = 'pelican-svbhack'
+THEME = '../pelican-svbhack'
 
 # Blogroll
 LINKS = (('Pelican', 'http://getpelican.com/'),
