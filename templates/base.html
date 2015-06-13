@@ -47,16 +47,16 @@
       <p>{{ TAGLINE }}</p>
       <ul>
         {% for title, link in MENUITEMS %}
-        <li><a href="{{ link }}">{{ title }}</a></li>
+        <a href="{{ link }}"><div><li>{{ title }}</li></div></a>
         {% endfor %}
         {% if DISPLAY_PAGES_ON_MENU %}{% for p in pages %}
-        <li><a href="{{ SITEURL }}/{{ p.url }}">{{ p.title }}</a></li>
+        <a href="{{ SITEURL }}/{{ p.url }}"><div><li>{{ p.title }}</li></div></a>
         {% endfor %}{% endif %}
         {% for name, link in LINKS %}
-        <li><a href="{{ link }}" target="_blank">{{ name }}</a></li>
+        <a href="{{ link }}" target="_blank"><div><li>{{ name }}</li></div></a>
         {% endfor %}
         {% for name, link in SOCIAL %}
-        <li><a href="{{ link }}" target="_blank">{{ name }}</a></li>
+        <a href="{{ link }}" target="_blank"><div><li>{{ name }}</li></div></a>
         {% endfor %}
       </ul>
     </div>
