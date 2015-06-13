@@ -25,7 +25,6 @@ def clean():
         local('mkdir {deploy_path}'.format(**env))
 
 def build():
-    local('lessc pelican-svbhack/static/css/style.less > pelican-svbhack/static/css/style.css')
     local('pelican -s pelicanconf.py')
 
 def rebuild():
