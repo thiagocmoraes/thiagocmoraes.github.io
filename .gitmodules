@@ -1,6 +1,3 @@
 [submodule "pelican-svbhack"]
 	path = pelican-svbhack
 	url = https://github.com/thiagocmoraes/pelican-svbhack.git
-[submodule "themes/hugo-goa"]
-	path = themes/hugo-goa
-	url = https://github.com/shenoybr/hugo-goa
