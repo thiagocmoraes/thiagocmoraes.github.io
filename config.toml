@@ -1,0 +1,61 @@
+## Basic Configuration
+
+baseurl = "https://thiagocmoraes.github.io/"
+builddrafts = false
+canonifyurls = false
+languageCode = "en-US"
+
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+
+author = "Thiago Moraes"
+title = "Thiago Moraes"
+
+theme = "hugo-goa"
+
+## Hugo Built-in Features
+# disqusShortname = "https-thiagocmoraes-github-io-hugo-goa-demo" # Comment out to disable Disqus.
+googleAnalytics = "XYZ"
+enableRobotsTXT = true
+
+## Site Settings
+[params]
+author = "Thiago Moraes"
+intro = "Solutions Engineer at Facebook"
+description = "Developer, Sales Engineer or something like that. <br/>"
+authorImage = "headshot.jpg"
+dateFormat = "Jan 2, 2006"
+
+## Site Meta Settings
+[params.meta]
+description = "Simple minimalist theme"
+keywords = "minimalist,blog,goa,hugo,developer"
+
+## Social Accounts
+[params.social]
+github = "thiagocmoraes"
+linkedIn = "thiagocmoraes"
+facebook = "thiago.camposmoraes"
+twitter = "thiagocmoraes"
+email = "thiago@cmoraes.com"
+# instagram = "thiago.camposmoraes"
+# google = "+ThiagodeCamposMoraes"
+
+## Extras
+[params.extra]
+copyright = "© 2016. Thiago Moraes. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)." 
+poweredBy = true
+hightlightJS = true
+
+## Main Menu
+[[menu.main]]
+    name = "blog"
+    weight = 100
+    identifier = "blog"
+    url = "/blog/"
+[[menu.main]]
+    name = "about"
+    identifier = "about"
+    weight = 200
+    url = "/about/"
