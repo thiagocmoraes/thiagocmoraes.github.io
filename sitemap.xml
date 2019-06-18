@@ -3,29 +3,29 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://thiagocmoraes.github.io/posts/hello-world/</loc>
+    <loc>https://thiagocmoraes.github.io/posts/hello-world/</loc>
     <lastmod>2019-06-18T00:34:07-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://thiagocmoraes.github.io/posts/</loc>
-    <lastmod>2019-06-18T00:34:07-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://thiagocmoraes.github.io/</loc>
+    <loc>https://thiagocmoraes.github.io/posts/</loc>
     <lastmod>2019-06-18T00:34:07-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://thiagocmoraes.github.io/categories/</loc>
+    <loc>https://thiagocmoraes.github.io/</loc>
+    <lastmod>2019-06-18T00:34:07-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://thiagocmoraes.github.io/tags/</loc>
+    <loc>https://thiagocmoraes.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://thiagocmoraes.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
