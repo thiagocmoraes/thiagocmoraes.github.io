@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Thiago Moraes</title>
-    <link>https://thiagocmoraes.github.io/</link>
+    <link>https://thiago.cmoraes.com/</link>
     <description>Recent content on Thiago Moraes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Tue, 18 Jun 2019 01:29:21 -0700</lastBuildDate>
     
-	<atom:link href="https://thiagocmoraes.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://thiago.cmoraes.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>https://thiagocmoraes.github.io/about/</link>
+      <link>https://thiago.cmoraes.com/about/</link>
       <pubDate>Tue, 18 Jun 2019 01:29:21 -0700</pubDate>
       
-      <guid>https://thiagocmoraes.github.io/about/</guid>
+      <guid>https://thiago.cmoraes.com/about/</guid>
       <description>To be written&amp;hellip;</description>
     </item>
     
     <item>
       <title>Hello, World!</title>
-      <link>https://thiagocmoraes.github.io/blog/hello-world/</link>
+      <link>https://thiago.cmoraes.com/blog/hello-world/</link>
       <pubDate>Tue, 18 Jun 2019 00:34:07 -0700</pubDate>
       
-      <guid>https://thiagocmoraes.github.io/blog/hello-world/</guid>
+      <guid>https://thiago.cmoraes.com/blog/hello-world/</guid>
       <description>Lorem ipsum is a pseudo-Latin text used in web design, typography, layout, and printing in place of English to emphasise design elements over content. It&amp;rsquo;s also called placeholder (or filler) text. It&amp;rsquo;s a convenient tool for mock-ups. It helps to outline the visual elements of a document or presentation, eg typography, font, or layout. Lorem ipsum is mostly a part of a Latin text by the classical author and philosopher Cicero.</description>
     </item>
     
