@@ -10,5 +10,15 @@
 	<atom:link href="https://thiagocmoraes.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title></title>
+      <link>https://thiagocmoraes.github.io/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://thiagocmoraes.github.io/index.html</guid>
+      <description> Thiago Moraes  Thiago Moraes &amp;#9776; Blog  About       Thiago Moraes Brazilian engineer. Living in the Bay Area.
+ Github Facebook LinkedIn Twitter        © 0001 · Powered by Hugo &amp; CoderPortfolio.            </description>
+    </item>
+    
   </channel>
 </rss>
