@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Thiago Moraes</title>
-    <link>https://thiagocmoraes.github.io/</link>
-    <description>Recent content on Thiago Moraes</description>
+    <title>Blogs on Thiago Moraes</title>
+    <link>https://thiagocmoraes.github.io/blog/</link>
+    <description>Recent content in Blogs on Thiago Moraes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Tue, 18 Jun 2019 11:39:40 -0700</lastBuildDate>
     
-	<atom:link href="https://thiagocmoraes.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://thiagocmoraes.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,15 +18,6 @@
       
       <guid>https://thiagocmoraes.github.io/blog/test/</guid>
       <description>Testing v2</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://thiagocmoraes.github.io/about/</link>
-      <pubDate>Tue, 18 Jun 2019 01:29:21 -0700</pubDate>
-      
-      <guid>https://thiagocmoraes.github.io/about/</guid>
-      <description>To be written&amp;hellip;</description>
     </item>
     
     <item>
