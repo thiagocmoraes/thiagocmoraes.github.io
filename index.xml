@@ -6,10 +6,19 @@
     <description>Recent content on Thiago Moraes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 18 Jun 2019 01:29:21 -0700</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jul 2019 00:01:18 -0700</lastBuildDate>
     
 	<atom:link href="https://thiago.cmoraes.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Hello, World!</title>
+      <link>https://thiago.cmoraes.com/blog/hello-world/</link>
+      <pubDate>Mon, 22 Jul 2019 00:01:18 -0700</pubDate>
+      
+      <guid>https://thiago.cmoraes.com/blog/hello-world/</guid>
+      <description>For long, I needed a place to write. On a long vacation, I finally put this up. Now I have fewer excuses to avoid writing.</description>
+    </item>
     
     <item>
       <title>About</title>
@@ -19,15 +28,6 @@
       <guid>https://thiago.cmoraes.com/about/</guid>
       <description>Name&amp;rsquo;s Thiago, Brazilian name that translates to James or Jacob depending on who you ask.
 I&amp;rsquo;m a Computer Engineer from Brazil. Over the last few years, I&amp;rsquo;ve often worked in positions supporting Latin America in a mix of Software Developer, Consultant and Sales Engineer. It&amp;rsquo;s funny how I loved the &amp;ldquo;hardcore&amp;rdquo; stuff while in college and end up to be more excited to work in places where technology is a means to an end.</description>
-    </item>
-    
-    <item>
-      <title>Hello, World!</title>
-      <link>https://thiago.cmoraes.com/blog/hello-world/</link>
-      <pubDate>Tue, 18 Jun 2019 00:34:07 -0700</pubDate>
-      
-      <guid>https://thiago.cmoraes.com/blog/hello-world/</guid>
-      <description>Lorem ipsum is a pseudo-Latin text used in web design, typography, layout, and printing in place of English to emphasise design elements over content. It&amp;rsquo;s also called placeholder (or filler) text. It&amp;rsquo;s a convenient tool for mock-ups. It helps to outline the visual elements of a document or presentation, eg typography, font, or layout. Lorem ipsum is mostly a part of a Latin text by the classical author and philosopher Cicero.</description>
     </item>
     
   </channel>
