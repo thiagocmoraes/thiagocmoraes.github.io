@@ -59,7 +59,7 @@ h4,
 h5,
 h6 {
   color: @darker-fg-color;
-  text-transform: uppercase;
+  // text-transform: uppercase;
   letter-spacing: 0.0625em;
   margin: 3.2rem 0 1.6rem 0;
 }
@@ -180,6 +180,19 @@ img {
   width: 100%;
   padding-left: 2.0rem;
   padding-right: 2.0rem;
+
+
+  // Addition to ensure blog content centers images and tables
+  img, table {
+    // display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  table {
+    width: auto; // This ensures tables aren't full width by default
+  }
+
 }
 
 .navigation {
